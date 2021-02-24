@@ -1,0 +1,135 @@
+{
+    "ladies": [
+        {
+            "id": 1,
+            "name": "baby fairy frok",
+            "brand": "local",
+            "price": "5000",
+            "img_url": "https://github.com/Taimoor-hassan/tailor_images/blob/main/imgdress/ladies/baby%20fairy%20frok.jpeg"
+        },
+        {
+            "id": 2,
+            "name": "baby maxi",
+            "brand": "local",
+            "price": "3000",
+            "img_url": "https://github.com/Taimoor-hassan/tailor_images/blob/main/imgdress/ladies/baby%20maxi.jpeg"
+        },
+        {
+            "id": 3,
+            "name": "Bridal maxi1",
+            "brand": "local",
+            "price": "22000",
+            "img_url": "https://github.com/Taimoor-hassan/tailor_images/blob/main/imgdress/ladies/Bridal%20maxi1.jpeg"
+        },
+        {
+            "id": 4,
+            "name": "Bridal maxi2",
+            "brand": "local",
+            "price": "22000",
+            "img_url": "https://github.com/Taimoor-hassan/tailor_images/blob/main/imgdress/ladies/Bridal%20maxi2.jpeg"
+        },
+        {
+            "id": 5,
+            "name": "chiffon frok 2",
+            "brand": "local",
+            "price": "5000",
+            "img_url": "https://github.com/Taimoor-hassan/tailor_images/blob/main/imgdress/ladies/chiffon%20frok%202.jpeg"
+        },
+        {
+            "id": 6,
+            "name": "casual shirt & trouser ",
+            "brand": "local",
+            "price": "2000",
+            "img_url": "https://github.com/Taimoor-hassan/tailor_images/blob/main/imgdress/ladies/casual%20shirt%20%26%20trouser.jpeg"
+        },
+        {
+            "id": 7,
+            "name": "chiffon frok",
+            "brand": "local",
+            "price": "5000",
+            "img_url": "https://github.com/Taimoor-hassan/tailor_images/blob/main/imgdress/ladies/chiffon%20frok.jpeg"
+        },
+        {
+            "id": 8,
+            "name": "full party maxi",
+            "brand": "local",
+            "price": "7000",
+            "img_url": "https://github.com/Taimoor-hassan/tailor_images/blob/main/imgdress/ladies/full%20party%20maxi.jpeg"
+        },
+        {
+            "id": 9,
+            "name": "kurta shalwar1",
+            "brand": "local",
+            "price": "8000",
+            "img_url": "https://github.com/Taimoor-hassan/tailor_images/blob/main/imgdress/ladies/kurta%20shalwar1.jpeg"
+        },
+        {
+            "id": 10,
+            "name": "kurta shalwar2",
+            "brand": "local",
+            "price": "8000",
+            "img_url": "https://github.com/Taimoor-hassan/tailor_images/blob/main/imgdress/ladies/kurta%20shalwar2.jpeg"
+        },
+        {
+            "id": 12,
+            "name": "lawn suit 3 piece",
+            "brand": "local",
+            "price": "5000",
+            "img_url": "https://github.com/Taimoor-hassan/tailor_images/blob/main/imgdress/ladies/lawn%20suit%203%20piece.jpeg"
+        },
+        {
+            "id": 13,
+            "name": "organza maxi with dupta and trouser",
+            "brand": "local",
+            "price": "7000",
+            "img_url": "https://github.com/Taimoor-hassan/tailor_images/blob/main/imgdress/ladies/organza%20maxi%20with%20dupta%20and%20trouser.jpeg"
+        },
+        {
+            "id": 14,
+            "name": "party lehng",
+            "brand": "local",
+            "price": "10000",
+            "img_url": "https://github.com/Taimoor-hassan/tailor_images/blob/main/imgdress/ladies/party%20lehng.jpeg"
+        },
+        {
+            "id": 15,
+            "name": "party lehnga",
+            "brand": "local",
+            "price": "1000",
+            "img_url": "https://github.com/Taimoor-hassan/tailor_images/blob/main/imgdress/ladies/party%20lehnga.jpeg"
+        },
+        {
+            "id": 16,
+            "name": "party maxi",
+            "brand": "local",
+            "price": "10000",
+            "img_url": "https://github.com/Taimoor-hassan/tailor_images/blob/main/imgdress/ladies/party%20maxi.jpeg"
+        },
+        {
+            "id": 17,
+            "name": "pure chiffon",
+            "brand": "local",
+            "price": "7000",
+            "img_url": "https://github.com/Taimoor-hassan/tailor_images/blob/main/imgdress/ladies/pure%20chiffon.jpeg"
+        },
+        {
+            "id": 18,
+            "name": "pure chiffon suit",
+            "brand": "local",
+            "price": "7000",
+            "img_url": "https://github.com/Taimoor-hassan/tailor_images/blob/main/imgdress/ladies/pure%20chiffon%20suit.jpeg"
+        },
+        {
+            "id": 19,
+            "name": "saree",
+            "brand": "local",
+            "price": "10000",
+            "img_url": "https://github.com/Taimoor-hassan/tailor_images/blob/main/imgdress/ladies/saree.jpeg"
+        }
+    ],
+    "men": [
+        {
+            "id": 27740
+        }
+    ]
+}
